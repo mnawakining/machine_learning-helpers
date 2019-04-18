@@ -3,6 +3,9 @@
 Скачать репозиторий:
 ### git clone репозиторий
 
+Переход в корневую папку:
+### cd grab_frames
+
 Установка зависимостей:
 ### python -m pip install -r requirements.txt
 
