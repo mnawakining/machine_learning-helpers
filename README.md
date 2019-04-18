@@ -1,13 +1,13 @@
 # testtest
 
 Скачать репозиторий:
-'git clone *репозиторий*'
+# git clone репозиторий
 
 Установка зависимостей:
-'python -m pip install -r requirements.txt'
+# python -m pip install -r requirements.txt
 
 Запуск:
-'python -m grab_frames.py'
+# python -m grab_frames.py
 
 Примечания:
 - На каждое открытие шлакбаума сохраняется 20 кадров
