@@ -12,7 +12,7 @@ cd machine_learning-helpers/grab_frames
 
 * Установка зависимостей:
 ```
-python -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 * Запуск:
