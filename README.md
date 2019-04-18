@@ -17,7 +17,7 @@ python -m pip install -r requirements.txt
 
 * Запуск:
 ```
-python -m grab_frames.py
+python grab_frames.py
 ```
 
 *Примечания:
